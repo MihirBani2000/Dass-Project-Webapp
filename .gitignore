@@ -1,0 +1,6 @@
+src/dev_code/django-backend/node_modules/*
+*.vscode
+*.sqlite3
+src\dev_code\django-backend\webappp\frontend\static\frontend\main.js
+src/dev_MERN/backend/node_modules/*
+src/dev_MERN/frontend/node_modules/*
